@@ -1,0 +1,199 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{background-color: black;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 10px 20px;
+    color: white;
+}
+
+nav .menu{
+    display: flex;
+    gap: 20px;
+    padding-right: 40px;
+    color: white;
+}
+.top-heading  h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    padding: 80px 0 0;
+    font-size: 40px
+    
+    
+    
+
+}
+.middle-image{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+
+}
+img{
+    width: 30%;
+    padding-block: 10px;
+}
+.bottom h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-block: 2%;
+    
+}
+.button{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    color: burlywood;
+   
+   
+    
+    
+}
+
+.button button{
+    height: 30px;
+    width: 120px;
+    background-color: gold;
+}
+
+.shiva2{
+    width:100%;
+    display: flex;
+}
+    
+
+
+.ram {
+    width:50%;
+padding:80px 150px;
+color: white;
+padding-block: 2%;
+
+}
+.ram button{
+    height: 30px;
+    width: 120px;
+    background-color: gold;
+}
+.left-side{
+    width:50%;
+}
+ .left-side img{
+    width:70%;
+
+}
+.raju h1{
+    display: flex;
+    padding: 0% 0% 20px 0%;
+    color: white;
+    padding-left: 100px;
+    
+
+}
+.whole{
+width: 100%;
+display: flex;
+justify-content:space-evenly ;
+padding-block: 35px;
+
+
+}
+.box1{
+    width:25%;
+    height: 300px;
+    border:1px solid burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+}
+.box1 button{
+    height: 30px;
+    width: 120px;
+    background-color: gold;
+}
+.box2{
+    width: 25%;
+    height:300px ;
+    border:1px solid burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+
+}
+.box2 button{
+    height: 30px;
+    width: 120px;
+    background-color: gold;
+}
+.box3{
+    width: 25%;
+    height:300px ;
+    border:1px solid burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+}
+.box3 button{
+    height: 30px;
+    width: 120px;
+    background-color: gold;
+}
+.whole2{
+    width:100% ;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-block: 100px;
+    
+
+
+}
+.box4 {
+
+    color: white;
+
+
+}
+.box5{
+    color: white;
+}
+.box6{
+    color: white;
+}
+span{
+    color: burlywood;
+}
+
+.down{
+    padding-block:3% ;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color: white;
+
+}
+
+
